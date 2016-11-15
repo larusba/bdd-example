@@ -3,11 +3,11 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<groupId>it.larus.study</groupId>
-	<artifactId>myapp</artifactId>
+	<artifactId>bdd-example</artifactId>
 	<version>1.0</version>
 	<packaging>jar</packaging>
 
-	<name>myapp</name>
+	<name>BDD example</name>
 	<url>http://maven.apache.org</url>
 
 	<properties>
