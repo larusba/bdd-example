@@ -24,7 +24,7 @@ public class UserServiceDefault implements UserService {
 			{
 				out.setFacebookRegistration(new HypermediaLink("registrationWithFacebook","/user/facebook","POST"));				
 			}
-			out.setRegistration(new HypermediaLink("registration", "/user", "POST"));
+//			out.setRegistration(new HypermediaLink("registration", "/user", "POST"));
 		}
 		
 		return out;
